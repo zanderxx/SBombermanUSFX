@@ -2,6 +2,11 @@
 class Bombas
 {
 private:
-	
+
+public:
+
+	void explotar();
+
+
 };
 
