@@ -11,5 +11,15 @@ public:
 
 	int getAltoAvatar() { return altoAvatar; }
 	void setAltoAvatar(int _altoAvatar) { altoAvatar = _altoAvatar; }
+
+	void morir();
+
+	void mover();
+
+	void colocarBomba();
+
+	void activarBoma();
+
+	void reaparición();
 };
 
