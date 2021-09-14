@@ -144,6 +144,7 @@
     <ClCompile Include="Enemigo.cpp" />
     <ClCompile Include="Escenario.cpp" />
     <ClCompile Include="Explosion.cpp" />
+    <ClCompile Include="Items.cpp" />
     <ClCompile Include="Muro.cpp" />
     <ClCompile Include="principal.cpp" />
     <ClCompile Include="Puntaje.cpp" />
@@ -156,6 +157,7 @@
     <ClInclude Include="Enemigo.h" />
     <ClInclude Include="Escenario.h" />
     <ClInclude Include="Explosion.h" />
+    <ClInclude Include="Items.h" />
     <ClInclude Include="Muro.h" />
     <ClInclude Include="Puntaje.h" />
     <ClInclude Include="Tiempo.h" />
